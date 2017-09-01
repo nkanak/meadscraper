@@ -13,6 +13,9 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
     'Click>=6.0',
+    'lxml==3.8.0',
+    'beautifulsoup4==4.6.0',
+    'requests==2.18.3',
     # TODO: put package requirements here
 ]
 
@@ -22,6 +25,7 @@ setup_requirements = [
 
 test_requirements = [
     # TODO: put package test requirements here
+    'tox==2.3.1',
 ]
 
 setup(
