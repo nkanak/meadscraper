@@ -31,4 +31,4 @@ tox==2.8.0
 urllib3==1.22
 virtualenv==15.1.0
 watchdog==0.8.3
-yapf==0.16.3
+yapf==0.17.0
