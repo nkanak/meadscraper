@@ -9,7 +9,7 @@ click==6.7
 coverage==4.4.1
 docutils==0.14
 flake8==3.4.1
-idna==2.5
+idna==2.6
 imagesize==0.7.1
 isort==4.2.15
 Jinja2==2.9.6
